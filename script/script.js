@@ -1,6 +1,6 @@
 let apiKey = "ac528d9a31cb6c0dffe8feccd1497739";
 let apiRequest =
-  "http://api.openweathermap.org/data/2.5/weather?q=mycity&appid=mykey";
+  "https://api.openweathermap.org/data/2.5/weather?q=mycity&appid=mykey";
 let inpSearch = document.querySelector(".inp-search");
 let searchBtn = document.querySelector(".btn-search");
 let errorCity = document.querySelector(".error");
